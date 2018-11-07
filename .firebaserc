@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "todoweb": "todoweb-sseon",
+    "default": "todoweb-sseon"
+  }
+}
